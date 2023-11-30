@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing lmao, i make some pull requests sometimes when i notice smth i wanna change or edit.
-- 🌱 I’m currently learning rust ig
-- 👯 I’m looking to clean the shit projects off my github. purify this shit,. fuckin fallout 3 ass shit
+- 🔭 I’m currently working on useless enmity/rosiecord (discord mobile client mod) projects
+- 🌱 I’m currently learning typescript as i work
 - 🤔 I’m looking for help with nothing. im perfect.
-- 💬 Ask me about skibdii.
+- 💬 Ask me about how bad my code is
 - 📫 How to reach me: huaraina on disc, uhhh thats all you need to know.
 - 😄 Pronouns: she/her yeah im a libral
-- ⚡ Fun fact: idk
-- These templates fucking suck.
+- ⚡ Fun fact: my code works somehow, despite being shitty
